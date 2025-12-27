@@ -7,8 +7,9 @@
 
 ### 🛠 Tech Stack
 - React, JavaScript, HTML, CSS
-- Node.js, Firebase, Spring Boot (Basic)
-- WordPress, Shopify
+- Node.js, Firebase, Spring Boot (Basic),c#
+- MySql
+- WordPress
 - Git, GitHub, VPS
 
 ---
