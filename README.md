@@ -1,16 +1,25 @@
-## Hi there 👋
+<h2 align="center">Hi, I'm Manal 👋</h2>
+<p align="center">
+  Full-Stack Developer | React • Node.js • WordPress
+</p>
 
-<!--
-**manalkhalili/ManalKhalili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- React, JavaScript, HTML, CSS
+- Node.js, Firebase, Spring Boot (Basic)
+- WordPress, Shopify
+- Git, GitHub, VPS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⭐ Featured Projects
+- Sandbag – Educational Platform
+- Rewaa – Plant Information Website
+- Trinity Logistics Website
+
+---
+
+### 📫 Contact
+- Email: khalilim387@gmail.com  
+- LinkedIn: linkedin.com/in/manal-khalili
