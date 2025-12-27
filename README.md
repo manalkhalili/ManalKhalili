@@ -12,15 +12,10 @@
 - WordPress
 - Git, GitHub, VPS
 
----
-
-### ⭐ Featured Projects
-- Sandbag – Educational Platform
-- Rewaa – Plant Information Website
-- Trinity Logistics Website
 
 ---
 
 ### 📫 Contact
-- Email: khalilim387@gmail.com  
+- Email: khalilim387@gmail.com
+- Phone=0569224273
 - LinkedIn: linkedin.com/in/manal-khalili
