@@ -1,13 +1,13 @@
 <h2 align="center">Hi, I'm Manal 👋</h2>
 <p align="center">
-  Full-Stack Developer | React • Node.js • WordPress
+  Full-Stack Developer | React • Node.js • WordPress  • Laravel
 </p>
 
 ---
 
 ### 🛠 Tech Stack
 - React, JavaScript, HTML, CSS
-- Node.js, Firebase, Spring Boot (Basic),c#
+- Node.js, Firebase, Spring Boot (Basic), Laravel, C#
 - MySql
 - WordPress
 - Git, GitHub, VPS
